@@ -71,7 +71,7 @@ namespace Empower.Pa.Pls.GenerateInformationEvent
 
 			try
 			{
-				helper.Log("Will generate an information event", PaLogLevel.Information);
+				helper.Log("Will generate an information event test 2", PaLogLevel.Information);
 
 				var notification = string.Empty;
 
